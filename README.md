@@ -4,12 +4,14 @@ A simple floating for your any container. This library doesn't have any dependen
 
 ### CDN Links:
 
-[js-link](js-link)  
-[css-link](css-link)  
+[https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/js/floating-container.min.js](https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/js/floating-container.min.js)  
+[https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/css/floating-container.min.css](https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/css/floating-container.min.css)  
   
 ### NPM
 
+``` bash
 npm i floating-container
+```
 
 [https://www.npmjs.com/package/floating-container](https://www.npmjs.com/package/floating-container)
 
