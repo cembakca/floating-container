@@ -4,8 +4,8 @@ A simple floating for your any container. This library doesn't have any dependen
 
 ### CDN Links:
 
-[https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/js/floating-container.min.js](https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/js/floating-container.min.js)  
-[https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/css/floating-container.min.css](https://cdn.jsdelivr.net/npm/floating-container@1.0.0/src/css/floating-container.min.css)  
+[https://cdn.jsdelivr.net/npm/floating-container@latest/src/js/floating-container.min.js](https://cdn.jsdelivr.net/npm/floating-container@latest/src/js/floating-container.min.js)  
+[https://cdn.jsdelivr.net/npm/floating-container@latest/src/css/floating-container.min.css](https://cdn.jsdelivr.net/npm/floating-container@latest/src/css/floating-container.min.css)  
   
 ### NPM
 
