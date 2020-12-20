@@ -1,6 +1,6 @@
 {
   "name": "floating-container",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight float to any container!",
   "main": "index.js",
   "scripts": {
